@@ -3,9 +3,9 @@ import dash_core_components as dcc
 import dash_html_components as html
 import plotly.graph_objs as go
 import pandas as pd 
-$pip install geopy
+!pip install geopy
 from geopy.geocoders import Nominatim
-$pip install haversine
+!pip install haversine
 import haversine as hs
 
 ########### Load data 
