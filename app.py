@@ -3,8 +3,10 @@ import dash_core_components as dcc
 import dash_html_components as html
 import plotly.graph_objs as go
 import pandas as pd 
-#from geopy.geocoders import Nominatim
-#import haversine as hs
+$pip install geopy
+from geopy.geocoders import Nominatim
+$pip install haversine
+import haversine as hs
 
 ########### Load data 
 df = pd.read_csv('SmallTownMurderData.csv')
