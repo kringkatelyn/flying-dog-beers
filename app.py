@@ -2,7 +2,12 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import plotly.graph_objs as go
+import pandas as pd 
+from geopy.geocoders import Nominatim
+import haversine as hs
 
+########### Load data 
+df = pd.read_csv('SmallTownMurderData.csv')
 ########### Define your variables
 beers=['Chesapeake Stout', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
 ibu_values=[35, 60, 85, 75]
