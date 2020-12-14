@@ -98,9 +98,9 @@ fig.update_layout(
 
 
 ########### Initiate the app
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-server = app.server
+#external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+#app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+#server = app.server
 #app.title=tabtitle
 
 ########### Set up the layout 
@@ -158,4 +158,4 @@ def update_output(n_clicks, input1):
 # )
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True, use_reloader = False)
