@@ -74,27 +74,6 @@ fig.update_layout(
 )
 
 
-########### Set up the chart
-# bitterness = go.Bar(
-#     x=beers,
-#     y=ibu_values,
-#     name=label1,
-#     marker={'color':color1}
-# # )
-# alcohol = go.Bar(
-#     x=beers,
-#     y=abv_values,
-#     name=label2,
-#     marker={'color':color2}
-# )
-
-# beer_data = [bitterness, alcohol]
-# beer_layout = go.Layout(
-#     barmode='group',
-#     title = mytitle
-# )
-
-# beer_fig = go.Figure(data=beer_data, layout=beer_layout)
 
 
 ########### Initiate the app
@@ -108,13 +87,14 @@ external_stylesheets = ['https://codepen.io/chriddp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets = external_stylesheets)
 server = app.server 
+app.title = "STM Episodes!"
 
 app.layout = html.Div([
     dcc.Graph(figure=fig),
-    #html.H3('Find the Episode Closest to Your Address', className = "header_text"),
-    #dcc.Input(id='input-1-state', type = 'text', value = ''),
-   # html.Button(id='submit-button-state', n_clicks=0, children = 'Submit'),
-   # html.Div(id='output-state'),
+    html.H3('Find the Episode Closest to Your Address', className = "header_text"),
+    dcc.Input(id='input-1-state', type = 'text', value = ''),
+    html.Button(id='submit-button-state', n_clicks=0, children = 'Submit'),
+    html.Div(id='output-state'),
     html.Label(['\n\nCheck out the Small Town Murder podcast at ', 
                 html.A('shutupandgivememurder.com', href='https://shutupandgivememurder.com', target="_blank")])
    
