@@ -101,29 +101,29 @@ app.layout = html.Div([
 
 ])
 
-@app.callback(Output('output-state', 'children'),
-              Input('submit-button-state', 'n_clicks'),
-              State('input-1-state', 'value')
-              )
+#@app.callback(Output('output-state', 'children'),
+ #             Input('submit-button-state', 'n_clicks'),
+  #            State('input-1-state', 'value')
+   #           )
 
-#def update_output(n_clicks, input1):
- #   if input1 == '':
-  #      nearestEpisode = ''
-   # else:
-    #    geolocator = Nominatim(user_agent="app")
-     #   location = geolocator.geocode(input1)
-#
- #       coords = (location.latitude, location.longitude)
-  #      distance = []
+def update_output(n_clicks, input1):
+    if input1 == '':
+        nearestEpisode = ''
+    else:
+        geolocator = Nominatim(user_agent="app")
+        location = geolocator.geocode(input1)
 
-   #     for i in range(len(df['lat'])): 
-    #        episode_coords = (df['lat'].iloc[i], df['lon'].iloc[i])
-     #       distance.append(hs.haversine(coords, episode_coords))
-#
- #       df['Distance'] = distance
-  #      nearestEpisode = df['title'].iloc[df['Distance'].idxmin()]
+        coords = (location.latitude, location.longitude)
+        distance = []
+
+        for i in range(len(df['lat'])): 
+            episode_coords = (df['lat'].iloc[i], df['lon'].iloc[i])
+            distance.append(hs.haversine(coords, episode_coords))
+
+        df['Distance'] = distance
+        nearestEpisode = df['title'].iloc[df['Distance'].idxmin()]
     
-   # return u'The nearest episode to your address is {}'.format(nearestEpisode)
+    return u'The nearest episode to your address is {}'.format(nearestEpisode)
 
 ########### Set up the layout
 # app.layout = html.Div(children=[
