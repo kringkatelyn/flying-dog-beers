@@ -107,6 +107,7 @@ fig.update_layout(
 external_stylesheets = ['https://codepen.io/chriddp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets = external_stylesheets)
+server = app.server 
 
 app.layout = html.Div([
     dcc.Graph(figure=fig),
