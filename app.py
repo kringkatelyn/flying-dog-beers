@@ -110,7 +110,7 @@ app.layout = html.Div([
               )
 
 def update_output(n_clicks, input1):
-    if n_clicks is None:
+    if n_clicks==0:
         raise PreventUpdate
     elif input1 == '':
         nearestEpisode = ''
