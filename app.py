@@ -88,12 +88,12 @@ external_stylesheets = ['https://codepen.io/chriddp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets = external_stylesheets)
 server = app.server 
 app.title ="Murder Map!"
-app.config['suppress_callback_exceptions'] = True
+app.config.suppress_callback_exceptions = True
 
 app.layout = html.Div([
     dcc.Graph(figure=fig),
     html.H3('Find the Episode Closest to Your Address', className = "header_text"),
-    dcc.Input(id='input-1-state', type = 'text', value = 'New York, New York'),
+    dcc.Input(id='input-1-state', type = 'text', value = ''),
     html.Button(id='submit-button-state', n_clicks=0, children = 'Submit'),
     html.Div(id='output-state'),
     html.Label(['\n\nCheck out the Small Town Murder podcast at ', 
