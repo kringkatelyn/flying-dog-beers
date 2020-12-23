@@ -6,6 +6,8 @@ import pandas as pd
 from geopy.geocoders import Nominatim
 import haversine as hs
 from dash.dependencies import Input, Output, State
+from dash.exceptions import PreventUpdate
+
 
 ########### Load data 
 df = pd.read_csv('SmallTownMurderData.csv')
@@ -94,7 +96,7 @@ app.layout = html.Div([
     dcc.Graph(figure=fig),
     html.H3('Find the Episode Closest to Your Address', className = "header_text"),
     dcc.Input(id='input-1-state', type = 'text', value = ''),
-    html.Button(id='submit', n_clicks=0, children = 'Submit'),
+    html.Button(id='submit-button-state', n_clicks=0, children = 'Submit'),
     html.Div(id='output-state'),
     html.Label(['\n\nCheck out the Small Town Murder podcast at ', 
                 html.A('shutupandgivememurder.com', href='https://shutupandgivememurder.com', target="_blank")])
@@ -103,12 +105,14 @@ app.layout = html.Div([
 ])
 
 @app.callback(Output('output-state', 'children'),
-              Input('submit', 'n_clicks'),
+              Input('submit-button-state', 'n_clicks'),
               State('input-1-state', 'value')
               )
 
 def update_output(n_clicks, input1):
-    if input1 == '':
+    if n_clicks is None:
+        raise PreventUpdate
+    elif input1 == '':
         nearestEpisode = ''
     else:
         geolocator = Nominatim(user_agent="app")
