@@ -75,7 +75,7 @@ app.config.suppress_callback_exceptions = True
 app.layout = html.Div([
     dcc.Graph(figure=fig),
     html.H3('Find the Episode Closest to Your Address', className = "header_text"),
-    dcc.Input(id='input-1-state', type = 'text', value = 'initial value'),
+    dcc.Input(id='input-1-state', type = 'text', value = 'Address'),
     html.Button(id='submit-button-state', children = 'Submit'),
     html.Div(id='output-state'),
     html.Label(['\n\nCheck out the Small Town Murder podcast at ', 
