@@ -84,10 +84,10 @@ app.layout = html.Div([
 
 ])
 
-@app.callback(Output('output-state', 'children'),
-              Input('submit-button-state', 'n_clicks'),
-              State('input-1-state', 'value')
-              )
+#@app.callback(Output('output-state', 'children'),
+ #             Input('submit-button-state', 'n_clicks'),
+  #            State('input-1-state', 'value')
+   #           )
 
 def update_output(n_clicks, input1):
     if n_clicks is None:
