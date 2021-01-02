@@ -75,7 +75,7 @@ app.config.suppress_callback_exceptions = True
 app.layout = html.Div([
     dcc.Graph(figure=fig),
     html.H3('Find the Episode Closest to Your Address', className = "header_text"),
-    dcc.Input(id='input-1-state', type = 'text', value = ''),
+    dcc.Input(id='input-1-state', type = 'text', value = 'initial value'),
     html.Button(id='submit-button-state', children = 'Submit'),
     html.Div(id='output-state'),
     html.Label(['\n\nCheck out the Small Town Murder podcast at ', 
@@ -84,10 +84,10 @@ app.layout = html.Div([
 
 ])
 
-#@app.callback(Output('output-state', 'children'),
- #             Input('submit-button-state', 'n_clicks'),
-  #            State('input-1-state', 'value')
-   #           )
+@app.callback(Output(component_id = 'output-state', component_property = 'children'),
+              [Input('submit-button-state', 'n_clicks')],
+              state = [State(component_id = 'input-1-state', component_property = 'value')]
+              )
 
 def update_output(n_clicks, input1):
     if n_clicks is None:
