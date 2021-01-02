@@ -1,203 +1,205 @@
-title,date,Location,City,State,lat,lon,Distance
-#001 - A Quadruple Murder in Mississippi,2017-01-18 23:05:00,"Sarah, Mississippi",Sarah, Mississippi,34.5695488,-90.2103717,939.542033097005
-"#002 - A Kidnapping & Murder in Raynham, Massachusetts - Part 1",2017-01-25 23:05:00,"Raynham, Massachusetts",Raynham, Massachusetts,41.9487118,-71.0731008,1198.9087691033126
-"#003 - A Kidnapping & Murder in Raynham, Massachusetts - Part 2",2017-02-01 23:05:00,"Raynham, Massachusetts",Raynham, Massachusetts,41.9487118,-71.0731008,1198.9087691033126
-"#004 - Three Charred Bodies in Manistique, Michigan",2017-02-08 23:05:00,"Manistique, Michigan",Manistique, Michigan,45.95779,-86.246419,419.08800689154606
-"#005 - A Murder For Greed in Eaton, Ohio",2017-02-15 23:05:00,"Eaton, Ohio",Eaton, Ohio,39.7439398,-84.6364891,286.8881024534614
-"#006 - The Best & Brightest Murdered in Hawkins, Texas",2017-02-22 23:05:00,"Hawkins, Texas",Hawkins, Texas,32.5884735,-95.2041135,1363.2598741459742
-"#007 - A Young, Budding Serial Killer in St. Johns, Arizona",2017-03-01 23:05:00,"St. Johns, Arizona",St. Johns, Arizona,34.5058698,-109.3609327,2231.497908896486
-"#008 - A Trail Of Ashes & Bodies in Otisco, New York",2017-03-08 23:05:00,"Otisco, New York",Otisco, New York,42.8600671,-76.2179832,772.7240286536435
-"#009 - Jealously Turns Into Multiple Murders in Burlingame, Kansas",2017-03-15 23:05:00,"Burlingame, Kansas",Burlingame, Kansas,38.7538947,-95.8349868,945.4669965439494
-"#010 - A British Tourist Murdered in Monticello, Florida",2017-03-22 23:05:00,"Monticello, Florida",Monticello, Florida,30.5452022,-83.8701636,1307.0373206411505
-"#011 - Murder & Worse in South Lake Tahoe, California - Part 1",2017-03-29 23:05:00,"South Lake Tahoe, California",South Lake Tahoe, California,38.9332411,-119.9843482,2905.8848055843273
-"#012 - Murder & Worse in South Lake Tahoe, California - Part 2",2017-04-05 23:05:00,"South Lake Tahoe, California",South Lake Tahoe, California,38.9332411,-119.9843482,2905.8848055843273
-"#013 - Murder Bubbling Under The Surface in Old Orchard Beach, Maine",2017-04-12 23:05:00,"Old Orchard Beach, Maine",Old Orchard Beach, Maine,43.517684,-70.377731,1248.338190758075
-"#014 - One Drifter, Two Murders in Ovando, Montana",2017-04-19 23:05:00,"Ovando, Montana",Ovando, Montana,47.0221465,-113.1731448,2233.141417246184
-"#015 - An Heiress & A Brutal Murder in Warrenton, Virginia",2017-04-26 23:17:55,"Warrenton, Virginia",Warrenton, Virginia,38.7135498,-77.795367,767.1078903416701
-"#016 - A House Of Horrors in Lino Lakes, Minnesota",2017-05-03 23:05:00,"Lino Lakes, Minnesota",Lino Lakes, Minnesota,45.1602442,-93.0888324,684.0089956957041
-"#017 - Fame & Fortune From Serial Murder in Great Linford, U.K.",2017-05-10 23:05:00,"Great Linford, U.K.",Great Linford, U.K.,52.0717778,-0.7600445,6136.978801140247
-"#018 - A Triple Murdering Con Man in Golden, Colorado",2017-05-17 23:05:00,"Golden, Colorado",Golden, Colorado,39.755543,-105.2210997,1664.5533735679671
-"#019 - Two Deaths, One Unexpected Murderer in Eldorado, Illinois",2017-05-24 23:05:00,"Eldorado, Illinois",Eldorado, Illinois,37.8136583,-88.4381029,545.3630945582426
-"#020 - Jealousy, Meth, Icepicks & Murder in Tonasket, Washington",2017-05-31 23:05:00,"Tonasket, Washington",Tonasket, Washington,48.7050075,-119.4372001,2710.2031572211154
-"#021 - A Sinister & Murderous Plot in Anniston, Alabama",2017-06-07 23:05:00,"Anniston, Alabama",Anniston, Alabama,33.6594422,-85.8316326,951.671823107423
-"#022 - A Deadly Massacre in Chimayo, New Mexico",2017-06-14 23:05:00,"Chimayo, New Mexico",Chimayo, New Mexico,36.0039088,-105.9468664,1879.6215641562067
-"#023 - A Nasty Pair Of Murders in Ocean Grove, New Jersey",2017-06-21 23:05:00,"Ocean Grove, New Jersey",Ocean Grove, New Jersey,40.2120564,-74.0075297,995.2115312337818
-"#024 - Bad Decisions, Deadly Results in Eufaula, Oklahoma",2017-06-28 23:05:00,"Eufaula, Oklahoma",Eufaula, Oklahoma,35.2873206,-95.5824846,1156.5027311917552
-"#025 - A Killer Caught In A Questionable Way in Gander, Newfoundland, Canada",2017-07-05 23:05:00,"Gander, Newfoundland",Gander, Newfoundland,48.9592291,-54.6187879,2505.745681589546
-"#026 - Two Murders, Two Murderers in Maynardville, Tennessee",2017-07-12 23:05:00,"Maynardville, Tennessee",Maynardville, Tennessee,36.2506364,-83.7974099,681.5009229986208
-"#027 - Family Problems, Killer Solutions in East Lyme, Connecticut",2017-07-19 23:05:00,"East Lyme, Connecticut",East Lyme, Connecticut,41.3569909,-72.2258709,1112.94663764033
-"#028 - A Messy Murder Plot in Kendrick, Idaho",2017-07-26 23:05:00,"Kendrick, Idaho",Kendrick, Idaho,46.6140599,-116.6465417,2495.8496657788096
-"#029 - A Grinch Of A Killer in Santa Claus, Georgia",2017-08-02 23:05:00,"Santa Claus, Georgia",Santa Claus, Georgia,32.1715776,-82.3315138,1153.8826134548035
-"#030 - A Killer So Clumsy in Kensett, Arkansas",2017-08-09 23:05:00,"Kensett, Arkansas",Kensett, Arkansas,35.2317523,-91.6676357,936.9594650738514
-"#031 - A Monster More Than Once in Woodside, South Australia",2017-08-16 23:05:00,"Woodside, South Australia",Woodside, South Australia,-34.951387,138.875857,16110.310201185759
-"#032 - Broken Bones & Brutal Murder in Baraboo, Wisconsin",2017-08-23 23:05:00,"Baraboo, Wisconsin",Baraboo, Wisconsin,43.4704014,-89.7437844,364.40101651541335
-"#033 - A Basement Dwelling Predator in Collegeville, Pennsylvania",2017-08-30 23:05:00,"Collegeville, Pennsylvania",Collegeville, Pennsylvania,40.1856597,-75.451571,879.0678847540999
-"#034 - Death Threats Lead To Murder in Marydel, Maryland",2017-09-06 23:05:00,"Marydel, Maryland",Marydel, Maryland,39.1128904,-75.7457651,900.3168309457645
-"#035 - Dr. Frankenstein Has Lost Control, in LaPorte, Indiana",2017-09-13 10:05:00,"LaPorte, Indiana",LaPorte, Indiana,41.5718945,-86.7490124,118.16823099520414
-"#036 - The Man With Two Last Meals in Iowa, Louisiana",2017-09-20 22:05:00,"Iowa, Louisiana",Iowa, Louisiana,30.2368772,-93.0137569,1486.7920234237947
-"#037 - A Deviously Hypocritical Killer in Wolsey, South Dakota",2017-09-27 22:05:00,"Wolsey, South Dakota",Wolsey, South Dakota,44.407763,-98.474816,1067.4933186360704
-"#038 - The Recipe For A Butcher in Fleming-Neon, Kentucky",2017-10-04 22:05:00,"Fleming-Neon, Kentucky",Fleming-Neon, Kentucky,37.192325,-82.7057126,611.4278016179868
-"#039 - The Orbit Of A Killer in Epping, New Hampshire",2017-10-11 22:05:00,"Epping, New Hampshire",Epping, New Hampshire,43.0394461,-71.0730253,1191.6472237393116
-"#040 -Six Unthinkable Things in Norwalk, Iowa",2017-10-18 22:05:00,"Norwalk, Iowa",Norwalk, Iowa,41.4755461,-93.6788304,672.8597970944872
-"#041 - Remorseless Horrors in Washington Terrace, Utah",2017-10-25 22:05:00,"Washington Terrace, Utah",Washington Terrace, Utah,41.1727268,-111.9766208,2183.246131636188
-"#042 - Kitchen Table Murder in Burke, Vermont",2017-11-01 22:05:00,"Burke, Vermont",Burke, Vermont,44.6178561,-71.9234957,1136.0327395292668
-"#043 - The Definition Of Depravity in Scottsbluff, Nebraska",2017-11-08 22:05:00,"Scottsbluff, Nebraska",Scottsbluff, Nebraska,41.866634,-103.667166,1488.5739639065591
-"#044 - A Morning Time Slaughter in Kenton, Delaware",2017-11-15 22:05:00,"Kenton, Delaware",Kenton, Delaware,39.2276115,-75.6629847,901.329018675227
-"#045 - The Hottest Cold Case Around in Sitka, Alaska",2017-11-22 21:05:00,"Sitka, Alaska",Sitka, Alaska,57.0524973,-135.337612,3834.7061923855604
-"#046 - Double Murder, Double Confession in Gatesville, North Carolina",2017-11-29 22:05:00,"Gatesville, North Carolina",Gatesville, North Carolina,36.4034878,-76.7530098,998.4810009070248
-"#047 - Anger, Obsession, Revenge in Sun Valley, Nevada",2017-12-06 21:05:00,"Sun Valley, Nevada",Sun Valley, Nevada,39.613855,-119.7767455,2865.9072500745574
-"#048 - Head, But No Shoulders in Cooperstown, North Dakota",2017-12-13 21:28:31,"Cooperstown, North Dakota",Cooperstown, North Dakota,47.4444384,-98.1239843,1143.0796072721646
-"#049 - Guilt Written In Blood in Canton, Missouri",2017-12-20 21:05:00,"Canton, Missouri",Canton, Missouri,40.132926,-91.5205242,545.7986195086551
-"#050 - An Unexpected Slaughter in Easley, South Carolina",2017-12-27 17:43:23,"Easley, South Carolina",Easley, South Carolina,34.8269276,-82.5817053,862.7982752425477
-"#051 - A Murderous Pact Unravels in Newport, Oregon",2018-01-03 21:05:00,"Newport, Oregon",Newport, Oregon,44.636755,-124.053442,3087.0409031965837
-"#052 - Meth, Marriage & Murder in Webster Springs, West Virginia",2018-01-10 21:00:00,"Webster Springs, West Virginia",Webster Springs, West Virginia,38.4792749,-80.4134157,605.4899404311911
-"#053 - Tragedy At The Trailer Park in Wheatland, Wyoming",2018-01-17 21:08:16,"Wheatland, Wyoming",Wheatland, Wyoming,42.054424,-104.952726,1591.3269200451064
-"#054 - A Serial Slasher in Strathroy, Ontario, Canada",2018-01-24 21:05:00,"Strathroy, Ontario",Strathroy, Ontario,42.9561795,-81.6220202,336.9569627887651
-"#055 - The Neighborhood Cannibal in South Kingstown, Rhode Island",2018-01-31 21:05:00,"South Kingstown, Rhode Island",South Kingstown, Rhode Island,41.454944,-71.5394738,1167.7501649577123
-"#056 - An Especially Ruthless Killer in Haiku, Hawaii",2018-02-07 21:05:00,"Haiku, Hawaii",Haiku, Hawaii,20.9143904,-156.32296,6901.737539648625
-"#057 - Four Murders & A Getaway in Amherst, Virginia",2018-02-14 21:05:00,"Amherst, Virginia",Amherst, Virginia,37.5851412,-79.0514134,760.1888852373871
-"#058 - ""Serial Killer"" Doesn't Even Describe It in Northampton, Massachusetts",2018-02-21 07:00:00,"Northampton, Massachusetts",Northampton, Massachusetts,42.3178989,-72.6311006,1067.317727953538
-"#059 - A Picturesque Murder House in Raymond, Washington",2018-02-28 07:00:00,"Raymond, Washington",Raymond, Washington,46.6864843,-123.7329469,3035.8005768466637
-"#060 - A Triangle Of Tragedy in Phillips, Oklahoma",2018-03-07 07:00:00,"Phillips, Oklahoma",Phillips, Oklahoma,34.5060097,-96.2196661,1259.1657403928677
-"#061 - The Mannequin Murders in Elkridge, Maryland",2018-03-15 06:00:00,"Elkridge, Maryland",Elkridge, Maryland,39.2128338,-76.7137155,820.5576408942147
-"#062 - When Stupid People Kill... in Three Points, Arizona",2018-03-22 06:00:00,"Three Points, Arizona",Three Points, Arizona,32.0463365,-111.2851902,2527.6562309243473
-"#063 - Team Murder Lunch in Edgewood, Kentucky",2018-03-29 06:00:00,"Edgewood, Kentucky",Edgewood, Kentucky,39.0186719,-84.581888,366.0639683483506
-"#064 - Dark Past, Scarier Present in Mineral Point, Wisconsin",2018-04-05 06:00:00,"Mineral Point, Wisconsin",Mineral Point, Wisconsin,42.8601834,-90.179547,380.8201694119557
-"#065 - Maybe A Serial Killer, Maybe A Liar in Sunbury, Pennsylvania",2018-04-12 06:00:00,"Sunbury, Pennsylvania",Sunbury, Pennsylvania,40.8619754,-76.7936252,749.017064726455
-"#066 - A Deadly Scam in Mooresville, Missouri",2018-04-19 06:00:00,"Mooresville, Missouri",Mooresville, Missouri,39.7452914,-93.717714,733.2889917484179
-"#067 - A Very Beloved & Dead Couple in Bellevue, Idaho",2018-05-03 06:00:00,"Bellevue, Idaho",Bellevue, Idaho,43.463518,-114.2606,2328.2904653690002
-"#068 - Too Many Dead Husbands in Gun Barrel City, Texas",2018-05-07 06:00:00,"Gun Barrel City, Texas",Gun Barrel City, Texas,32.331017,-96.1126799,1436.8301867935586
-"#069 - Loneliness Is Better Than Murder in Waynesville, Ohio",2018-05-16 06:00:00,"Waynesville, Ohio",Waynesville, Ohio,39.5297824,-84.086601,325.14034046094304
-"#070 - Three Murders & A Strangling in Canyon Lake, California",2018-05-23 06:00:00,"Canyon Lake, California",Canyon Lake, California,33.6836539,-117.2626151,2913.0111381917463
-"#071 - An Extra Terrible Person in Kittery, Maine",2018-05-30 06:00:00,"Kittery, Maine",Kittery, Maine,43.088448,-70.736847,1218.9049628613257
-"#072 - Plans Of Torture in Canistota, South Dakota",2018-06-06 06:00:00,"Canistota, South Dakota",Canistota, South Dakota,43.597758,-97.290617,962.5213176805765
-"#073 - I Think I'll Read It Again in Irvington, Alabama",2018-06-20 06:00:00,"in Irvington, Alabama",in Irvington, Alabama,34.6398137,-86.9291728,850.1924726976509
-"#074 - The Imperfect Storm in Rulo, Nebraska",2018-06-27 06:00:00,"Rulo, Nebraska",Rulo, Nebraska,40.051783,-95.4262794,855.7381500233365
-"#075 - Not Much Of A Plan in Warren, Rhode Island",2018-07-06 06:00:00,"Warren, Rhode Island",Warren, Rhode Island,41.7303794,-71.2825494,1184.5769994022614
-"#076 - Don't Wear Overalls To Court in Cincinnati, Arkansas",2018-07-11 06:00:00,"Cincinnati, Arkansas",Cincinnati, Arkansas,36.0373036,-94.5110517,1029.0366811566291
-"#077 - Tortured To Elvis in Gretna, Louisiana",2018-07-18 06:00:00,"Gretna, Louisiana",Gretna, Louisiana,29.9146493,-90.0539604,1424.3493308480754
-"#078 - A Blaze Of Glory in Redding, Connecticut",2018-07-25 06:00:00,"Redding, Connecticut",Redding, Connecticut,41.3025956,-73.3834532,1018.6380480352605
-"#079 - Maybe Satan Did It in Dayton, Nevada",2018-08-02 06:00:00,"Dayton, Nevada",Dayton, Nevada,39.2371689,-119.59295,2863.310061713887
-"#080 - Sex, Lies & Duct Tape in Villa Park, Illinois",2018-08-09 06:00:00,"Villa Park, Illinois",Villa Park, Illinois,41.8891319,-87.9774854,198.5171606035873
-"#081 - Begging For Death in James Island, South Carolina",2018-08-15 06:00:00,"James Island, South Carolina",James Island, South Carolina,32.7276779,-79.9556455,1166.571613351096
-"#082 - Sick, Twisted & Extra Stupid in Flora Vista, New Mexico",2018-08-23 06:00:00,"Flora Vista, New Mexico",Flora Vista, New Mexico,36.7939546,-108.0798213,2012.6653642100268
-"#083 - Affairs & Stabbings Of The Heart in Essex, Vermont",2018-08-29 06:00:00,"Essex, Vermont",Essex, Vermont,44.5230418,-73.0622703,1045.308681803225
-"#084 - Sadistic Isn't Sexually Transmitted in Red Wing, Minnesota",2018-09-05 06:00:00,"Red Wing, Minnesota",Red Wing, Minnesota,44.5624676,-92.5338013,616.7656102457005
-"#085 - Lust, Unexplained Wounds & Weak Excuses in Gainesboro, Tennessee",2018-09-13 06:00:00,"Gainesboro, Tennessee",Gainesboro, Tennessee,36.3556149,-85.6588665,651.6913994600903
-"#086 - The Problem Here Is... in Stanford, Montana",2018-09-20 06:00:00,"Stanford, Montana",Stanford, Montana,47.1537394,-110.2174252,2011.6540156578885
-"#087 - A Bloody Mess in Nitro, West Virginia",2018-09-26 06:00:00,"Nitro, West Virginia",Nitro, West Virginia,38.4179195,-81.8436145,529.5557503412226
-"#088 - A Chance Encounter in Webster Township, Michigan",2018-10-04 04:00:00,"Webster Township, Michigan",Webster Township, Michigan,42.3835856,-83.8423446,146.86705870114136
-"#089 - Pollinations & Decapitations in Cave Junction, Oregon",2018-10-11 06:00:00,"Cave Junction, Oregon",Cave Junction, Oregon,42.1633443,-123.6479309,3107.009759963432
-"#090 - A Closet Full Of Murder in Brentwood, Tennessee",2018-10-18 06:00:00,"Brentwood, Tennessee",Brentwood, Tennessee,36.0325687,-86.7825235,694.9319017766832
-"#091 - A Progression Of Awful Things in Kiowa, Colorado",2018-10-25 06:00:00,"Kiowa, Colorado",Kiowa, Colorado,38.4411214,-102.7628476,1510.1112554988376
-"#092 - The Couple That Kills Together... Blames Each Other in Williamson, Arizona",2018-10-31 06:00:00,"Williamson, Arizona",Williamson, Arizona,34.696318,-112.5329232,2476.1061735480685
-"#093 - Perverted, Depraved & Mom Approved in Middle Township, New Jersey",2018-11-08 07:00:00,"Middle Township, New Jersey",Middle Township, New Jersey,39.086816,-74.831565,973.0269157081525
-"#094 - Going For His Murder Badge in Petal, Mississippi",2018-11-15 05:00:00,"Petal, Mississippi",Petal, Mississippi,31.3465627,-89.2600605,1251.181683536712
-"#095 - Yes, No, I Don't Know... in Oskaloosa, Kansas",2018-12-05 07:00:00,"Oskaloosa, Kansas",Oskaloosa, Kansas,39.2150702,-95.3127203,882.2714297304648
-"#096 - The Dismount Is The Problem... in Sheridan, Wyoming",2018-12-07 07:00:00,"Sheridan, Wyoming",Sheridan, Wyoming,44.797194,-106.956179,1739.7910461107783
-"#097 - Overwhelming Evidence Of Overkill in Belmont, New Hampshire",2018-12-13 05:00:00,"Belmont, New Hampshire",Belmont, New Hampshire,43.445441,-71.478424,1159.3363821314938
-"#098 - Cold Blooded, Not Blue Blooded in Peru, Indiana",2018-12-19 07:00:00,"Peru, Indiana",Peru, Indiana,40.754161,-86.07170346032552,5239.258475752054
-"#099 - The Coroner's Waiting Room in McIntosh, Florida",2018-12-27 07:00:00,"McIntosh, Florida",McIntosh, Florida,29.4495488,-82.2218015,1451.8138241108325
-"#100 - Is There A ""Killer Gene""? in Dewey, Oklahoma",2019-01-03 04:10:23,"Dewey, Oklahoma",Dewey, Oklahoma,36.7959193,-95.9355387,1069.9596644962796
-"#101 - First Degree Stupid in Amityville, New York",2019-01-10 05:09:28,"Amityville, New York",Amityville, New York,40.6789893,-73.4170673,1029.9041217830686
-"#102 - A Troubled & Troubling Past in Red Springs, North Carolina",2019-01-17 06:07:52,"Red Springs, North Carolina",Red Springs, North Carolina,34.815158,-79.1837649,994.4105321947039
-"#103 - It's Always The Quiet Ones in Bonaparte, Iowa",2019-01-24 05:41:53,"Bonaparte, Iowa",Bonaparte, Iowa,40.6982985,-91.802034,542.4695093115075
-"#104 - The Trees Tell You To Murder in Dallas, Oregon",2019-01-31 04:15:15,"Dallas, Oregon",Dallas, Oregon,44.9189206,-123.3158695,3024.9214666540797
-"#105 - Charles Manson Without The LSD in Bloomingdale, Illinois",2019-02-07 03:55:06,"Bloomingdale, Illinois",Bloomingdale, Illinois,41.9575285,-88.0809036,205.60719877083332
-"#106 - Not Regulation Behavior in Burlingame, California - Part 1",2019-02-14 04:57:26,"Burlingame, California",Burlingame, California,37.5841026,-122.3660825,3152.2350690162534
-"#107 - Not Regulation Behavior in Burlingame, California - Part 2",2019-02-21 04:44:13,"Burlingame, California",Burlingame, California,37.5841026,-122.3660825,3152.2350690162534
-"#108 - Love Triangle Plus Two in Logan, Ohio",2019-02-28 05:11:59,"Logan, Ohio",Logan, Ohio,40.4430521,-83.7414465,251.61928780506386
-"#109 - A Grim & Deadly Plot in Bonne Terre, Missouri",2019-03-07 05:43:06,"Bonne Terre, Missouri",Bonne Terre, Missouri,37.9247678,-90.5510587,635.5475654226101
-"#110 - A Tangled Tree Of Disaster in Bridgeville, Delaware",2019-03-14 03:49:51,"Bridgeville, Delaware",Bridgeville, Delaware,38.7427231,-75.6032026,929.8343068814119
-"#111 - Two Sides Of One Story in Eatonton, Georgia",2019-03-21 04:36:27,"Eatonton, Georgia",Eatonton, Georgia,33.3267997,-83.3884961,1007.5265348280285
-"#112 - Hitchhiking Was Never Safe in Dunbar, West Virginia",2019-03-28 04:00:21,"Dunbar, West Virginia",Dunbar, West Virginia,38.3606509,-81.7373485,540.1567136264748
-"#113 - Just Being Myself in Clearview, Washington",2019-04-04 04:29:42,"Clearview, Washington",Clearview, Washington,39.7170389,-77.7402717,716.7515081525265
-"#114 - Hot For Teacher in Crandon, Wisconsin",2019-04-11 04:04:06,"Crandon, Wisconsin",Crandon, Wisconsin,45.571907,-88.902892,456.7291676382221
-"#115 - A Game Of Pray, Marry, Kill in Lititz, Pennsylvania",2019-04-18 04:17:27,"Lititz, Pennsylvania",Lititz, Pennsylvania,40.1571252,-76.3072103,811.2617384225408
-"#116 - A Vampire Pyramid Scheme in Marshfield, Massachusetts",2019-04-25 04:05:17,"Marshfield, Massachusetts",Marshfield, Massachusetts,42.091769,-70.7055941,1227.4461095115303
-"#117 - Sexier Than Coal in Jasper, Alabama",2019-05-02 04:50:46,"Jasper, Alabama",Jasper, Alabama,33.8312185,-87.2775053,943.6438012597647
-"#118 - A Strange Fun in Lake Havasu City, Arizona",2019-05-09 03:30:48,"Lake Havasu City, Arizona",Lake Havasu City, Arizona,34.4838502,-114.3224495,2632.1416117506033
-"#119 - It's About The Opportunities in Whitley City, Kentucky",2019-05-16 03:27:51,"Whitley City, Kentucky",Whitley City, Kentucky,36.724481,-84.4734339,618.440654089134
-"#120 - Guns, Explosives & A Lion in Duchesne, Utah",2019-05-23 04:21:38,"Duchesne, Utah",Duchesne, Utah,40.2960433,-110.4715153,2081.4372650546343
-"#121 - A Trailer Too Close in Magnolia, Texas",2019-05-30 03:07:23,"Magnolia, Texas",Magnolia, Texas,30.2093794,-95.7507815,1612.7434172595358
-"#122 - An Irresistible Force in Garden City, Idaho",2019-06-06 03:22:16,"Garden City, Idaho",Garden City, Idaho,43.622111,-116.2381787,2484.4819052809557
-"#123 - Bees, Syrup & Leeches in White Earth, Minnesota",2019-06-13 03:45:14,"White Earth, Minnesota",White Earth, Minnesota,47.0966328,-95.843299,973.013364834783
-"#124 - Saving It For Later in Townville, South Carolina",2019-06-20 03:20:19,"Townville, South Carolina",Townville, South Carolina,34.5637137,-82.8984775,883.0864022536022
-"#125 - The Shining, But More Quaint in Newry, Maine",2019-06-27 03:51:39,"Newry, Maine",Newry, Maine,44.487689,-70.787659,1223.259827659692
-"#126 - PCP, Sadness, Or Crazy in Houma, Louisiana",2019-07-04 04:12:54,"Houma, Louisiana",Houma, Louisiana,29.5957696,-90.7195348,1476.0014015906731
-"#127 - Menage a Nope in St Johnsbury, Vermont",2019-07-11 03:00:51,"St Johnsbury, Vermont",St Johnsbury, Vermont,44.4192249,-72.0150951,1125.6550541369909
-"#128 - Follow That Blood Trail... in Guide Rock, Nebraska",2019-07-18 04:41:30,"Guide Rock, Nebraska",Guide Rock, Nebraska,40.0736366,-98.3303743,1090.0315286498894
-"#129 - A Bloody Surprise in Guilford, Connecticut",2019-07-25 03:52:58,"Guilford, Connecticut",Guilford, Connecticut,41.2889866,-72.6817616,1076.6642237419596
-"#130 - I Killed The Devil... You're Welcome in Jackson, Michigan",2019-08-01 03:40:46,"Jackson, Michigan",Jackson, Michigan,42.2416466,-84.425589,97.86903706375095
-"#131 - A Killer So Innocent in Winnemucca, Nevada",2019-08-08 03:50:51,"Winnemucca, Nevada",Winnemucca, Nevada,40.9724275,-117.7348184,2658.9064556139842
-"#132 - Why Let One Live? in Weisenberg, Pennsylvania",2019-08-15 04:00:00,"Weisenberg, Pennsylvania",Weisenberg, Pennsylvania,40.5850947,-75.7263025,843.8733153446823
-"#133 - What's That In Your Pocket? in Mount Ida, Arkansas",2019-08-22 03:50:51,"Mount Ida, Arkansas",Mount Ida, Arkansas,34.5567637,-93.6340815,1100.7508804731667
-"#134 - Some People Just Don't Mix in Byers, Colorado",2019-08-29 03:39:31,"Byers, Colorado",Byers, Colorado,39.709152,-104.2219965,1583.8394253229828
-"#135 - A Sun Powered Killer in Edinburg, Virginia",2019-09-05 04:12:19,"Edinburg, Virginia",Edinburg, Virginia,38.8209466,-78.5658453,704.9473614730678
-"#136 - Unearthing Some Secrets in Eunice, New Mexico",2019-09-12 03:31:10,"Eunice, New Mexico",Eunice, New Mexico,32.4388224,-103.159002,1888.3091343181318
-"#137 - A Murder Not-So-Mystery Weekend in St. Michaels, Maryland",2019-09-19 04:06:27,"St. Michaels, Maryland",St. Michaels, Maryland,38.7865839,-76.2244098,880.0557595401401
-"#138 - The Cookie Monster in Walnut, Mississippi",2019-09-26 04:00:00,"Walnut, Mississippi",Walnut, Mississippi,34.1489999,-90.3989834,989.3209798356703
-"#139 - The Murder Portal Is Open in Little Compton, Rhode Island",2019-10-03 04:24:19,"Little Compton, Rhode Island",Little Compton, Rhode Island,41.5101085,-71.1711648,1197.149884736606
-"#140 -  When Death Is Too Easy in Troy, Illinois",2019-10-10 04:00:00,"Troy, Illinois",Troy, Illinois,38.7292147,-89.8831541,529.7312638693156
-"#141 - The Bart & Milhouse Ritual Killing in Springfield, Oregon",2019-10-17 04:05:54,"Springfield, Oregon",Springfield, Oregon,44.0462362,-123.0220289,3016.325642093364
-"#142 - Where Is The Head?? in Dickson, Tennessee",2019-10-24 04:00:00,"Dickson, Tennessee",Dickson, Tennessee,36.0766534,-87.3870096,699.5670131734871
-"#143 - A Scary Story On A Quiet Street in Pitman, New Jersey",2019-10-31 04:22:55,"Pitman, New Jersey",Pitman, New Jersey,39.732892,-75.1315651,921.5950885879909
-"#144 - One In A Ditch & One In A Bed in Forest City, Iowa",2019-11-07 04:00:00,"Forest City, Iowa",Forest City, Iowa,43.2624559,-93.6371591,665.2180619654733
-"#145 - Killing, Cover Up & A LOT of Sex Toys in Fremont, New Hampshire",2019-11-14 04:31:21,"Fremont, New Hampshire",Fremont, New Hampshire,42.9909194,-71.1425606,1186.0571345862431
-"#146 - A Strangle Here, A Strangle There in Hutchinson, Kansas",2019-11-21 03:59:02,"Hutchinson, Kansas",Hutchinson, Kansas,38.0608444,-97.9297743,1142.9557508973141
-"#147 - That's Not Junk In That Trunk in Ocean Township, New Jersey",2019-11-28 04:29:34,"Ocean Township, New Jersey",Ocean Township, New Jersey,40.2520408,-74.0461049,990.8026133310485
-"#148 - A Deadly Recipe in Alturas, Florida",2019-12-05 04:22:11,"Alturas, Florida",Alturas, Florida,27.871693,-81.7150798,1633.5558206217231
-"#149 - Brutality, Karma & Cold-blooded Stupid in Stillwater, New York",2019-12-12 03:40:36,"Stillwater, New York",Stillwater, New York,42.9384101,-73.6531731,981.7844478155422
-"#150 - A Betrayal Of Hearts & Knives in Rome, Georgia",2019-12-19 03:41:36,"Rome, Georgia",Rome, Georgia,34.257038,-85.1646726,885.896009185002
-"#151 - The Panhandle Samurai in Vincennes, Indiana",2019-12-26 02:57:00,"Vincennes, Indiana",Vincennes, Indiana,38.6772691,-87.5286325,425.5457126126299
-"#152 - Taming The Beast in Shelton, Washington",2020-01-02 03:41:28,"Shelton, Washington",Shelton, Washington,47.2150945,-123.1007066,2983.914813260727
-"#153 - That Can't Be An Accident in Brookfield Township, Ohio",2020-01-09 03:53:22,"Brookfield Township, Ohio",Brookfield Township, Ohio,41.233945,-80.569517,432.5639797420388
-"#154 - A Bloody Puzzle With Missing Pieces in Bartlesville, Oklahoma",2020-01-16 04:24:40,"Bartlesville, Oklahoma",Bartlesville, Oklahoma,36.7494864,-95.9782966,1076.1244913737494
-"#155 - Two Bodies & One Big Coincidence in Raeford, North Carolina",2020-01-23 03:42:00,"Raeford, North Carolina",Raeford, North Carolina,34.9809996,-79.2241998,976.8706848652445
-"#156 - Lies Can Be Deadly in Salem, Massachusetts",2020-01-30 03:23:09,"Salem, Massachusetts",Salem, Massachusetts,42.5195292,-70.8967226,1208.023262275217
-"#157 -  Every Step You Take... in Jefferson, Wisconsin",2020-02-06 03:44:20,"Jefferson, Wisconsin",Jefferson, Wisconsin,43.0055594,-88.8073273,275.6688817859596
-"#158 - A Hollow Full Of Murder in Tiline, Kentucky",2020-02-13 04:13:00,"Tiline, Kentucky",Tiline, Kentucky,37.1725544,-88.2444745,604.2358277073639
-"#159 - You Can't Dismember Your Problems in Florence, Arizona",2020-02-20 04:24:26,"Florence, Arizona",Florence, Arizona,33.0314508,-111.3873431,2476.284719976558
-"#160 - Trust Me, I'm A Murderer in Festus, Missouri",2020-02-27 03:32:57,"Festus, Missouri",Festus, Missouri,38.2207112,-90.3959504,601.6760945715816
-"#161 - Killing On Consignment in Nashville, Michigan",2020-03-05 02:54:06,"Nashville, Michigan",Nashville, Michigan,42.6028137,-85.0930536,60.61874989745303
-"#162 - A Very Unstable Genius in Chatham Township, New Jersey",2020-03-12 04:09:22,"Chatham Township, New Jersey",Chatham Township, New Jersey,40.7301239,-74.4251115,945.9859755283555
-"#163 - Teenage Killer Lesbian Vampire Werewolves From Space in Humble, Texas",2020-03-19 03:10:56,"Humble, Texas",Humble, Texas,29.9988312,-95.2621553,1608.9899665337425
-"#164 - The Idiotic Avenger in Greenwood, Florida",2020-03-26 04:20:40,"Greenwood, Florida",Greenwood, Florida,30.8695214,-85.1627093,1262.3441708380763
-"#165 - Sex Tape Bait in Port Penn, Delaware",2020-04-02 04:05:52,"Port Penn, Delaware",Port Penn, Delaware,39.5167789,-75.5765926,895.1364038501353
-"#166 - Starting Your Own Religion Can Be Tricky in American Fork, Utah",2020-04-09 04:25:21,"American Fork, Utah",American Fork, Utah,40.3768954,-111.7957645,2188.16693954356
-"#167 - You'll Have To Chop Off More than That... in Antelope, California",2020-04-16 03:15:56,"Antelope, California",Antelope, California,38.7082357,-121.3299513,3024.3416923085583
-"#168 - A Killer In The Cards in Mexborough, South Yorkshire, England",2020-04-23 03:57:12,"Mexborough, South Yorkshire",Mexborough, South Yorkshire,53.4938865,-1.2836514,6037.2463525917565
-"#169 - A Brutal, Silly & Victimless Murder in Layland, West Virginia",2020-04-30 03:54:27,"Layland, West Virginia",Layland, West Virginia,37.8892821,-80.9712058,622.3941883298563
-"#170 - An Attempted Suburban Vampire Cult in St. Cloud, Minnesota",2020-05-07 02:16:53,"St. Cloud, Minnesota",St. Cloud, Minnesota,45.5616075,-94.1642004,779.0704252457246
-"#171 - Til Dismemberment Do Us Part in Decatur, Alabama",2020-05-14 04:03:38,"Decatur, Alabama",Decatur, Alabama,34.623709,-87.067051,853.660014709554
-"#172 - Natural Born Killer Idiots in Chubbuck, Idaho",2020-05-21 03:54:06,"Chubbuck, Idaho",Chubbuck, Idaho,42.927651,-112.4731501,2191.50131814618
-"#173 - Three Is A Ring, Four Is A Crowd in Marmaduke, Arkansas",2020-05-28 02:41:41,"Marmaduke, Arkansas",Marmaduke, Arkansas,36.1860947,-90.3837068,786.1555416431287
-"#174 - Open & Not So Shut in Belle Terre, New York",2020-06-04 03:26:34,"Belle Terre, New York",Belle Terre, New York,40.9598208,-73.067884,1051.7312772178552
-"#175 - Cruel, Unusual & Pointless in Newville, Pennsylvania",2020-06-11 04:15:42,"Newville, Pennsylvania",Newville, Pennsylvania,40.3056615,-75.2198962,893.7561290027828
-"#176 - Sicker Than The Average Strangler in Gaffney, South Carolina",2020-06-18 02:51:04,"Gaffney, South Carolina",Gaffney, South Carolina,35.0717945,-81.6498195,865.5482732460808
-"#177 - Sex, Deception, Death... And A Pig in Verdigre, Nebraska",2020-06-25 04:07:20,"Verdigre, Nebraska",Verdigre, Nebraska,42.5969469,-98.0336814,1019.6865511980615
-"#178 - Proud To Be Cruel in Middle River, Maryland",2020-07-02 03:02:57,"Middle River, Maryland",Middle River, Maryland,39.3342745,-76.4394057,835.7941479575949
-"#179 - Deep Beneath The Goat Heads in Gunnison, Colorado",2020-07-09 03:48:53,"Gunnison, Colorado",Gunnison, Colorado,38.6476702,-107.0603126,1852.782737247816
-"#180 - Dark & Dirty Motivation in Mustang, Oklahoma",2020-07-16 02:47:36,"Mustang, Oklahoma",Mustang, Oklahoma,35.384227,-97.7244813,1293.490356290647
-"#181 - A Bloody Path To A Monster in Enosburgh, Vermont",2020-07-23 03:47:20,"Enosburgh, Vermont",Enosburgh, Vermont,44.9061902,-72.8063759,1073.1209836350893
-"#182 - Two Shot Glasses Of Blood, Please in Pigeon Forge, Tennessee",2020-07-30 03:01:08,"Pigeon Forge, Tennessee",Pigeon Forge, Tennessee,35.7884241,-83.5543329,736.5019374731369
-"#183 - A Stupid, Vicious, Unlucky Mess in Eddyville, Oregon",2020-08-06 02:51:00,"Eddyville, Oregon",Eddyville, Oregon,44.6345632,-123.7764999,3065.413373112773
-"#184 - Some Dogs Find All The Legs in Streamwood, Illinois",2020-08-13 03:01:17,"Streamwood, Illinois",Streamwood, Illinois,42.0255827,-88.1784085,212.57628584700504
-"#185 - A Double Murder In Stereo Sound in Middletown, Connecticut",2020-08-20 03:10:36,"Middletown, Connecticut",Middletown, Connecticut,41.5623178,-72.6509061,1074.4552698138064
-"#186 - Power Saws, Little Red Wagons & Corpse Finding Cats in Libertyville, Iowa",2020-08-27 02:26:38,"Libertyville, Iowa",Libertyville, Iowa,40.9575203,-92.0512863,553.2372684905334
-"#187 - Remorse Is For Suckers in Reeds Spring, Missouri",2020-09-03 02:56:00,"Reeds Spring, Missouri",Reeds Spring, Missouri,36.7497827,-93.3779642,901.2158980214408
-"#188 - A Garbage Disposal Full Of Secrets in Corcoran, Minnesota",2020-09-10 02:58:10,"Corcoran, Minnesota",Corcoran, Minnesota,45.0951069,-93.5475651,713.6045055239517
-"#189 - The Lego Murders in Holladay, Utah",2020-09-17 02:16:36,"Holladay, Utah",Holladay, Utah,40.6688363,-111.8246557,2182.9181651258523
-"#190 - We Will Dig Up That Basement! in Vinton, Virginia",2020-09-24 02:52:50,"Vinton, Virginia",Vinton, Virginia,37.2809707,-79.8969819,734.507455507144
-"#191 - Like Severed Legs At A Wedding... in Fairfield, Ohio",2020-10-01 03:04:05,"Fairfield, Ohio",Fairfield, Ohio,39.3458953,-84.5605031,331.25828401284343
-"#192 - Angry, Bloody & Ridiculous in Colby, Wisconsin",2020-10-08 02:46:51,"Colby, Wisconsin",Colby, Wisconsin,44.9099665,-90.3156911,482.8102084625796
-"#193 - A Stalking From Within in Darby, Montana",2020-10-15 03:00:00,"in Darby, Montana",in Darby, Montana,46.022659,-114.178093,2306.1599418157316
-"#194 - A Real Life Halloween Monster in Sutherland, Nebraska",2020-10-22 02:56:00,"Sutherland, Nebraska",Sutherland, Nebraska,41.1571138,-101.1261815,1291.718005850706
-"#195 - The Head Of The Serpent in Lafayette, Indiana",2020-10-29 03:00:52,"Lafayette, Indiana",Lafayette, Indiana,40.4167022,-86.8752869,226.1409788594871
-"#196 - A Man Named ""Hillbilly"" in Fruitville, Florida",2020-11-05 03:27:44,"Fruitville, Florida",Fruitville, Florida,27.3317515,-82.4615172,1679.6020754456451
-"#197 - No Good Deed... in Golden Valley, Arizona",2020-11-12 02:46:31,"Golden Valley, Arizona",Golden Valley, Arizona,35.2216745,-114.2175543,2586.518573668704
-"#198 - A Ted Bundy On The Rise in Needham, Massachusetts",2020-11-19 03:28:05,"Needham, Massachusetts",Needham, Massachusetts,42.283431,-71.2328329,1182.2909608356752
-"#199 - Hello, I'm My Sister... in Anniston, Alabama",2020-11-26 02:22:59,"Anniston, Alabama",Anniston, Alabama,33.6594422,-85.8316326,951.671823107423
-"#200 - Possessed By Stupidity in Brownstown Township, Michigan",2020-12-03 02:55:49,"Brownstown Township, Michigan",Brownstown Township, Michigan,42.055489,-83.1852954,201.03458977989973
-"#201 - A Mystery Deepens in Gormania, West Virginia",2020-12-10 02:56:00,"Gormania, West Virginia",Gormania, West Virginia,39.2928814,-79.3444888,619.8515372986554
-"#202 - A Very Murderous Christmas in Barnesvil...	2020-12-17 02:48:13	"Barnesville, Georgia","Barnesville","Georgia",33.054571,-84.155750,
+title,date,Location,City,State,lat,lon
+#001 - A Quadruple Murder in Mississippi,2017-01-18 23:05:00,"Sarah, Mississippi",Sarah, Mississippi,34.5695488,-90.2103717
+"#002 - A Kidnapping & Murder in Raynham, Massachusetts - Part 1",2017-01-25 23:05:00,"Raynham, Massachusetts",Raynham, Massachusetts,41.9487118,-71.0731008
+"#003 - A Kidnapping & Murder in Raynham, Massachusetts - Part 2",2017-02-01 23:05:00,"Raynham, Massachusetts",Raynham, Massachusetts,41.9487118,-71.0731008
+"#004 - Three Charred Bodies in Manistique, Michigan",2017-02-08 23:05:00,"Manistique, Michigan",Manistique, Michigan,45.95779,-86.246419
+"#005 - A Murder For Greed in Eaton, Ohio",2017-02-15 23:05:00,"Eaton, Ohio",Eaton, Ohio,39.7439398,-84.6364891
+"#006 - The Best & Brightest Murdered in Hawkins, Texas",2017-02-22 23:05:00,"Hawkins, Texas",Hawkins, Texas,32.5884735,-95.2041135
+"#007 - A Young, Budding Serial Killer in St. Johns, Arizona",2017-03-01 23:05:00,"St. Johns, Arizona",St. Johns, Arizona,34.5058698,-109.3609327
+"#008 - A Trail Of Ashes & Bodies in Otisco, New York",2017-03-08 23:05:00,"Otisco, New York",Otisco, New York,42.8600671,-76.2179832
+"#009 - Jealously Turns Into Multiple Murders in Burlingame, Kansas",2017-03-15 23:05:00,"Burlingame, Kansas",Burlingame, Kansas,38.7538947,-95.8349868
+"#010 - A British Tourist Murdered in Monticello, Florida",2017-03-22 23:05:00,"Monticello, Florida",Monticello, Florida,30.5452022,-83.8701636
+"#011 - Murder & Worse in South Lake Tahoe, California - Part 1",2017-03-29 23:05:00,"South Lake Tahoe, California",South Lake Tahoe, California,38.9332411,-119.9843482
+"#012 - Murder & Worse in South Lake Tahoe, California - Part 2",2017-04-05 23:05:00,"South Lake Tahoe, California",South Lake Tahoe, California,38.9332411,-119.9843482
+"#013 - Murder Bubbling Under The Surface in Old Orchard Beach, Maine",2017-04-12 23:05:00,"Old Orchard Beach, Maine",Old Orchard Beach, Maine,43.517684,-70.377731
+"#014 - One Drifter, Two Murders in Ovando, Montana",2017-04-19 23:05:00,"Ovando, Montana",Ovando, Montana,47.0221465,-113.1731448
+"#015 - An Heiress & A Brutal Murder in Warrenton, Virginia",2017-04-26 23:17:55,"Warrenton, Virginia",Warrenton, Virginia,38.7135498,-77.795367
+"#016 - A House Of Horrors in Lino Lakes, Minnesota",2017-05-03 23:05:00,"Lino Lakes, Minnesota",Lino Lakes, Minnesota,45.1602442,-93.0888324
+"#017 - Fame & Fortune From Serial Murder in Great Linford, U.K.",2017-05-10 23:05:00,"Great Linford, U.K.",Great Linford, U.K.,52.0717778,-0.7600445
+"#018 - A Triple Murdering Con Man in Golden, Colorado",2017-05-17 23:05:00,"Golden, Colorado",Golden, Colorado,39.755543,-105.2210997
+"#019 - Two Deaths, One Unexpected Murderer in Eldorado, Illinois",2017-05-24 23:05:00,"Eldorado, Illinois",Eldorado, Illinois,37.8136583,-88.4381029
+"#020 - Jealousy, Meth, Icepicks & Murder in Tonasket, Washington",2017-05-31 23:05:00,"Tonasket, Washington",Tonasket, Washington,48.7050075,-119.4372001
+"#021 - A Sinister & Murderous Plot in Anniston, Alabama",2017-06-07 23:05:00,"Anniston, Alabama",Anniston, Alabama,33.6594422,-85.8316326
+"#022 - A Deadly Massacre in Chimayo, New Mexico",2017-06-14 23:05:00,"Chimayo, New Mexico",Chimayo, New Mexico,36.0039088,-105.9468664
+"#023 - A Nasty Pair Of Murders in Ocean Grove, New Jersey",2017-06-21 23:05:00,"Ocean Grove, New Jersey",Ocean Grove, New Jersey,40.2120564,-74.0075297
+"#024 - Bad Decisions, Deadly Results in Eufaula, Oklahoma",2017-06-28 23:05:00,"Eufaula, Oklahoma",Eufaula, Oklahoma,35.2873206,-95.5824846
+"#025 - A Killer Caught In A Questionable Way in Gander, Newfoundland, Canada",2017-07-05 23:05:00,"Gander, Newfoundland",Gander, Newfoundland,48.9592291,-54.6187879
+"#026 - Two Murders, Two Murderers in Maynardville, Tennessee",2017-07-12 23:05:00,"Maynardville, Tennessee",Maynardville, Tennessee,36.2506364,-83.7974099
+"#027 - Family Problems, Killer Solutions in East Lyme, Connecticut",2017-07-19 23:05:00,"East Lyme, Connecticut",East Lyme, Connecticut,41.3569909,-72.2258709
+"#028 - A Messy Murder Plot in Kendrick, Idaho",2017-07-26 23:05:00,"Kendrick, Idaho",Kendrick, Idaho,46.6140599,-116.6465417
+"#029 - A Grinch Of A Killer in Santa Claus, Georgia",2017-08-02 23:05:00,"Santa Claus, Georgia",Santa Claus, Georgia,32.1715776,-82.3315138
+"#030 - A Killer So Clumsy in Kensett, Arkansas",2017-08-09 23:05:00,"Kensett, Arkansas",Kensett, Arkansas,35.2317523,-91.6676357
+"#031 - A Monster More Than Once in Woodside, South Australia",2017-08-16 23:05:00,"Woodside, South Australia",Woodside, South Australia,-34.951387,138.875857
+"#032 - Broken Bones & Brutal Murder in Baraboo, Wisconsin",2017-08-23 23:05:00,"Baraboo, Wisconsin",Baraboo, Wisconsin,43.4704014,-89.7437844
+"#033 - A Basement Dwelling Predator in Collegeville, Pennsylvania",2017-08-30 23:05:00,"Collegeville, Pennsylvania",Collegeville, Pennsylvania,40.1856597,-75.451571
+"#034 - Death Threats Lead To Murder in Marydel, Maryland",2017-09-06 23:05:00,"Marydel, Maryland",Marydel, Maryland,39.1128904,-75.7457651
+"#035 - Dr. Frankenstein Has Lost Control, in LaPorte, Indiana",2017-09-13 10:05:00,"LaPorte, Indiana",LaPorte, Indiana,41.5718945,-86.7490124
+"#036 - The Man With Two Last Meals in Iowa, Louisiana",2017-09-20 22:05:00,"Iowa, Louisiana",Iowa, Louisiana,30.2368772,-93.0137569
+"#037 - A Deviously Hypocritical Killer in Wolsey, South Dakota",2017-09-27 22:05:00,"Wolsey, South Dakota",Wolsey, South Dakota,44.407763,-98.474816
+"#038 - The Recipe For A Butcher in Fleming-Neon, Kentucky",2017-10-04 22:05:00,"Fleming-Neon, Kentucky",Fleming-Neon, Kentucky,37.192325,-82.7057126
+"#039 - The Orbit Of A Killer in Epping, New Hampshire",2017-10-11 22:05:00,"Epping, New Hampshire",Epping, New Hampshire,43.0394461,-71.0730253
+"#040 -Six Unthinkable Things in Norwalk, Iowa",2017-10-18 22:05:00,"Norwalk, Iowa",Norwalk, Iowa,41.4755461,-93.6788304
+"#041 - Remorseless Horrors in Washington Terrace, Utah",2017-10-25 22:05:00,"Washington Terrace, Utah",Washington Terrace, Utah,41.1727268,-111.9766208
+"#042 - Kitchen Table Murder in Burke, Vermont",2017-11-01 22:05:00,"Burke, Vermont",Burke, Vermont,44.6178561,-71.9234957
+"#043 - The Definition Of Depravity in Scottsbluff, Nebraska",2017-11-08 22:05:00,"Scottsbluff, Nebraska",Scottsbluff, Nebraska,41.866634,-103.667166
+"#044 - A Morning Time Slaughter in Kenton, Delaware",2017-11-15 22:05:00,"Kenton, Delaware",Kenton, Delaware,39.2276115,-75.6629847
+"#045 - The Hottest Cold Case Around in Sitka, Alaska",2017-11-22 21:05:00,"Sitka, Alaska",Sitka, Alaska,57.0524973,-135.337612
+"#046 - Double Murder, Double Confession in Gatesville, North Carolina",2017-11-29 22:05:00,"Gatesville, North Carolina",Gatesville, North Carolina,36.4034878,-76.7530098
+"#047 - Anger, Obsession, Revenge in Sun Valley, Nevada",2017-12-06 21:05:00,"Sun Valley, Nevada",Sun Valley, Nevada,39.613855,-119.7767455
+"#048 - Head, But No Shoulders in Cooperstown, North Dakota",2017-12-13 21:28:31,"Cooperstown, North Dakota",Cooperstown, North Dakota,47.4444384,-98.1239843
+"#049 - Guilt Written In Blood in Canton, Missouri",2017-12-20 21:05:00,"Canton, Missouri",Canton, Missouri,40.132926,-91.5205242
+"#050 - An Unexpected Slaughter in Easley, South Carolina",2017-12-27 17:43:23,"Easley, South Carolina",Easley, South Carolina,34.8269276,-82.5817053
+"#051 - A Murderous Pact Unravels in Newport, Oregon",2018-01-03 21:05:00,"Newport, Oregon",Newport, Oregon,44.636755,-124.053442
+"#052 - Meth, Marriage & Murder in Webster Springs, West Virginia",2018-01-10 21:00:00,"Webster Springs, West Virginia",Webster Springs, West Virginia,38.4792749,-80.4134157
+"#053 - Tragedy At The Trailer Park in Wheatland, Wyoming",2018-01-17 21:08:16,"Wheatland, Wyoming",Wheatland, Wyoming,42.054424,-104.952726
+"#054 - A Serial Slasher in Strathroy, Ontario, Canada",2018-01-24 21:05:00,"Strathroy, Ontario",Strathroy, Ontario,42.9561795,-81.6220202
+"#055 - The Neighborhood Cannibal in South Kingstown, Rhode Island",2018-01-31 21:05:00,"South Kingstown, Rhode Island",South Kingstown, Rhode Island,41.454944,-71.5394738
+"#056 - An Especially Ruthless Killer in Haiku, Hawaii",2018-02-07 21:05:00,"Haiku, Hawaii",Haiku, Hawaii,20.9143904,-156.32296
+"#057 - Four Murders & A Getaway in Amherst, Virginia",2018-02-14 21:05:00,"Amherst, Virginia",Amherst, Virginia,37.5851412,-79.0514134
+"#058 - ""Serial Killer"" Doesn't Even Describe It in Northampton, Massachusetts",2018-02-21 07:00:00,"Northampton, Massachusetts",Northampton, Massachusetts,42.3178989,-72.6311006
+"#059 - A Picturesque Murder House in Raymond, Washington",2018-02-28 07:00:00,"Raymond, Washington",Raymond, Washington,46.6864843,-123.7329469
+"#060 - A Triangle Of Tragedy in Phillips, Oklahoma",2018-03-07 07:00:00,"Phillips, Oklahoma",Phillips, Oklahoma,34.5060097,-96.2196661
+"#061 - The Mannequin Murders in Elkridge, Maryland",2018-03-15 06:00:00,"Elkridge, Maryland",Elkridge, Maryland,39.2128338,-76.7137155
+"#062 - When Stupid People Kill... in Three Points, Arizona",2018-03-22 06:00:00,"Three Points, Arizona",Three Points, Arizona,32.0463365,-111.2851902
+"#063 - Team Murder Lunch in Edgewood, Kentucky",2018-03-29 06:00:00,"Edgewood, Kentucky",Edgewood, Kentucky,39.0186719,-84.581888
+"#064 - Dark Past, Scarier Present in Mineral Point, Wisconsin",2018-04-05 06:00:00,"Mineral Point, Wisconsin",Mineral Point, Wisconsin,42.8601834,-90.179547
+"#065 - Maybe A Serial Killer, Maybe A Liar in Sunbury, Pennsylvania",2018-04-12 06:00:00,"Sunbury, Pennsylvania",Sunbury, Pennsylvania,40.8619754,-76.7936252
+"#066 - A Deadly Scam in Mooresville, Missouri",2018-04-19 06:00:00,"Mooresville, Missouri",Mooresville, Missouri,39.7452914,-93.717714
+"#067 - A Very Beloved & Dead Couple in Bellevue, Idaho",2018-05-03 06:00:00,"Bellevue, Idaho",Bellevue, Idaho,43.463518,-114.2606
+"#068 - Too Many Dead Husbands in Gun Barrel City, Texas",2018-05-07 06:00:00,"Gun Barrel City, Texas",Gun Barrel City, Texas,32.331017,-96.1126799
+"#069 - Loneliness Is Better Than Murder in Waynesville, Ohio",2018-05-16 06:00:00,"Waynesville, Ohio",Waynesville, Ohio,39.5297824,-84.086601
+"#070 - Three Murders & A Strangling in Canyon Lake, California",2018-05-23 06:00:00,"Canyon Lake, California",Canyon Lake, California,33.6836539,-117.2626151
+"#071 - An Extra Terrible Person in Kittery, Maine",2018-05-30 06:00:00,"Kittery, Maine",Kittery, Maine,43.088448,-70.736847
+"#072 - Plans Of Torture in Canistota, South Dakota",2018-06-06 06:00:00,"Canistota, South Dakota",Canistota, South Dakota,43.597758,-97.290617
+"#073 - I Think I'll Read It Again in Irvington, Alabama",2018-06-20 06:00:00,"in Irvington, Alabama",in Irvington, Alabama,34.6398137,-86.9291728
+"#074 - The Imperfect Storm in Rulo, Nebraska",2018-06-27 06:00:00,"Rulo, Nebraska",Rulo, Nebraska,40.051783,-95.4262794
+"#075 - Not Much Of A Plan in Warren, Rhode Island",2018-07-06 06:00:00,"Warren, Rhode Island",Warren, Rhode Island,41.7303794,-71.2825494
+"#076 - Don't Wear Overalls To Court in Cincinnati, Arkansas",2018-07-11 06:00:00,"Cincinnati, Arkansas",Cincinnati, Arkansas,36.0373036,-94.5110517
+"#077 - Tortured To Elvis in Gretna, Louisiana",2018-07-18 06:00:00,"Gretna, Louisiana",Gretna, Louisiana,29.9146493,-90.0539604
+"#078 - A Blaze Of Glory in Redding, Connecticut",2018-07-25 06:00:00,"Redding, Connecticut",Redding, Connecticut,41.3025956,-73.3834532
+"#079 - Maybe Satan Did It in Dayton, Nevada",2018-08-02 06:00:00,"Dayton, Nevada",Dayton, Nevada,39.2371689,-119.59295
+"#080 - Sex, Lies & Duct Tape in Villa Park, Illinois",2018-08-09 06:00:00,"Villa Park, Illinois",Villa Park, Illinois,41.8891319,-87.9774854
+"#081 - Begging For Death in James Island, South Carolina",2018-08-15 06:00:00,"James Island, South Carolina",James Island, South Carolina,32.7276779,-79.9556455
+"#082 - Sick, Twisted & Extra Stupid in Flora Vista, New Mexico",2018-08-23 06:00:00,"Flora Vista, New Mexico",Flora Vista, New Mexico,36.7939546,-108.0798213
+"#083 - Affairs & Stabbings Of The Heart in Essex, Vermont",2018-08-29 06:00:00,"Essex, Vermont",Essex, Vermont,44.5230418,-73.0622703
+"#084 - Sadistic Isn't Sexually Transmitted in Red Wing, Minnesota",2018-09-05 06:00:00,"Red Wing, Minnesota",Red Wing, Minnesota,44.5624676,-92.5338013
+"#085 - Lust, Unexplained Wounds & Weak Excuses in Gainesboro, Tennessee",2018-09-13 06:00:00,"Gainesboro, Tennessee",Gainesboro, Tennessee,36.3556149,-85.6588665
+"#086 - The Problem Here Is... in Stanford, Montana",2018-09-20 06:00:00,"Stanford, Montana",Stanford, Montana,47.1537394,-110.2174252
+"#087 - A Bloody Mess in Nitro, West Virginia",2018-09-26 06:00:00,"Nitro, West Virginia",Nitro, West Virginia,38.4179195,-81.8436145
+"#088 - A Chance Encounter in Webster Township, Michigan",2018-10-04 04:00:00,"Webster Township, Michigan",Webster Township, Michigan,42.3835856,-83.8423446
+"#089 - Pollinations & Decapitations in Cave Junction, Oregon",2018-10-11 06:00:00,"Cave Junction, Oregon",Cave Junction, Oregon,42.1633443,-123.6479309
+"#090 - A Closet Full Of Murder in Brentwood, Tennessee",2018-10-18 06:00:00,"Brentwood, Tennessee",Brentwood, Tennessee,36.0325687,-86.7825235
+"#091 - A Progression Of Awful Things in Kiowa, Colorado",2018-10-25 06:00:00,"Kiowa, Colorado",Kiowa, Colorado,38.4411214,-102.7628476
+"#092 - The Couple That Kills Together... Blames Each Other in Williamson, Arizona",2018-10-31 06:00:00,"Williamson, Arizona",Williamson, Arizona,34.696318,-112.5329232
+"#093 - Perverted, Depraved & Mom Approved in Middle Township, New Jersey",2018-11-08 07:00:00,"Middle Township, New Jersey",Middle Township, New Jersey,39.086816,-74.831565
+"#094 - Going For His Murder Badge in Petal, Mississippi",2018-11-15 05:00:00,"Petal, Mississippi",Petal, Mississippi,31.3465627,-89.2600605
+"#095 - Yes, No, I Don't Know... in Oskaloosa, Kansas",2018-12-05 07:00:00,"Oskaloosa, Kansas",Oskaloosa, Kansas,39.2150702,-95.3127203
+"#096 - The Dismount Is The Problem... in Sheridan, Wyoming",2018-12-07 07:00:00,"Sheridan, Wyoming",Sheridan, Wyoming,44.797194,-106.956179
+"#097 - Overwhelming Evidence Of Overkill in Belmont, New Hampshire",2018-12-13 05:00:00,"Belmont, New Hampshire",Belmont, New Hampshire,43.445441,-86.07170346032552
+"#098 - Cold Blooded, Not Blue Blooded in Peru, Indiana",2018-12-19 07:00:00,"Peru, Indiana",Peru, Indiana,40.754161,-73.0439406
+"#099 - The Coroner's Waiting Room in McIntosh, Florida",2018-12-27 07:00:00,"McIntosh, Florida",McIntosh, Florida,29.4495488,-82.2218015
+"#100 - Is There A ""Killer Gene""? in Dewey, Oklahoma",2019-01-03 04:10:23,"Dewey, Oklahoma",Dewey, Oklahoma,36.7959193,-95.9355387
+"#101 - First Degree Stupid in Amityville, New York",2019-01-10 05:09:28,"Amityville, New York",Amityville, New York,40.6789893,-73.4170673
+"#102 - A Troubled & Troubling Past in Red Springs, North Carolina",2019-01-17 06:07:52,"Red Springs, North Carolina",Red Springs, North Carolina,34.815158,-79.1837649
+"#103 - It's Always The Quiet Ones in Bonaparte, Iowa",2019-01-24 05:41:53,"Bonaparte, Iowa",Bonaparte, Iowa,40.6982985,-91.802034
+"#104 - The Trees Tell You To Murder in Dallas, Oregon",2019-01-31 04:15:15,"Dallas, Oregon",Dallas, Oregon,44.9189206,-123.3158695
+"#105 - Charles Manson Without The LSD in Bloomingdale, Illinois",2019-02-07 03:55:06,"Bloomingdale, Illinois",Bloomingdale, Illinois,41.9575285,-88.0809036
+"#106 - Not Regulation Behavior in Burlingame, California - Part 1",2019-02-14 04:57:26,"Burlingame, California",Burlingame, California,37.5841026,-122.3660825
+"#107 - Not Regulation Behavior in Burlingame, California - Part 2",2019-02-21 04:44:13,"Burlingame, California",Burlingame, California,37.5841026,-122.3660825
+"#108 - Love Triangle Plus Two in Logan, Ohio",2019-02-28 05:11:59,"Logan, Ohio",Logan, Ohio,40.4430521,-83.7414465
+"#109 - A Grim & Deadly Plot in Bonne Terre, Missouri",2019-03-07 05:43:06,"Bonne Terre, Missouri",Bonne Terre, Missouri,37.9247678,-90.5510587
+"#110 - A Tangled Tree Of Disaster in Bridgeville, Delaware",2019-03-14 03:49:51,"Bridgeville, Delaware",Bridgeville, Delaware,38.7427231,-75.6032026
+"#111 - Two Sides Of One Story in Eatonton, Georgia",2019-03-21 04:36:27,"Eatonton, Georgia",Eatonton, Georgia,33.3267997,-83.3884961
+"#112 - Hitchhiking Was Never Safe in Dunbar, West Virginia",2019-03-28 04:00:21,"Dunbar, West Virginia",Dunbar, West Virginia,38.3606509,-81.7373485
+"#113 - Just Being Myself in Clearview, Washington",2019-04-04 04:29:42,"Clearview, Washington",Clearview, Washington,39.7170389,-77.7402717
+"#114 - Hot For Teacher in Crandon, Wisconsin",2019-04-11 04:04:06,"Crandon, Wisconsin",Crandon, Wisconsin,45.571907,-88.902892
+"#115 - A Game Of Pray, Marry, Kill in Lititz, Pennsylvania",2019-04-18 04:17:27,"Lititz, Pennsylvania",Lititz, Pennsylvania,40.1571252,-76.3072103
+"#116 - A Vampire Pyramid Scheme in Marshfield, Massachusetts",2019-04-25 04:05:17,"Marshfield, Massachusetts",Marshfield, Massachusetts,42.091769,-70.7055941
+"#117 - Sexier Than Coal in Jasper, Alabama",2019-05-02 04:50:46,"Jasper, Alabama",Jasper, Alabama,33.8312185,-87.2775053
+"#118 - A Strange Fun in Lake Havasu City, Arizona",2019-05-09 03:30:48,"Lake Havasu City, Arizona",Lake Havasu City, Arizona,34.4838502,-114.3224495
+"#119 - It's About The Opportunities in Whitley City, Kentucky",2019-05-16 03:27:51,"Whitley City, Kentucky",Whitley City, Kentucky,36.724481,-84.4734339
+"#120 - Guns, Explosives & A Lion in Duchesne, Utah",2019-05-23 04:21:38,"Duchesne, Utah",Duchesne, Utah,40.2960433,-110.4715153
+"#121 - A Trailer Too Close in Magnolia, Texas",2019-05-30 03:07:23,"Magnolia, Texas",Magnolia, Texas,30.2093794,-95.7507815
+"#122 - An Irresistible Force in Garden City, Idaho",2019-06-06 03:22:16,"Garden City, Idaho",Garden City, Idaho,43.622111,-116.2381787
+"#123 - Bees, Syrup & Leeches in White Earth, Minnesota",2019-06-13 03:45:14,"White Earth, Minnesota",White Earth, Minnesota,47.0966328,-95.843299
+"#124 - Saving It For Later in Townville, South Carolina",2019-06-20 03:20:19,"Townville, South Carolina",Townville, South Carolina,34.5637137,-82.8984775
+"#125 - The Shining, But More Quaint in Newry, Maine",2019-06-27 03:51:39,"Newry, Maine",Newry, Maine,44.487689,-70.787659
+"#126 - PCP, Sadness, Or Crazy in Houma, Louisiana",2019-07-04 04:12:54,"Houma, Louisiana",Houma, Louisiana,29.5957696,-90.7195348
+"#127 - Menage a Nope in St Johnsbury, Vermont",2019-07-11 03:00:51,"St Johnsbury, Vermont",St Johnsbury, Vermont,44.4192249,-72.0150951
+"#128 - Follow That Blood Trail... in Guide Rock, Nebraska",2019-07-18 04:41:30,"Guide Rock, Nebraska",Guide Rock, Nebraska,40.0736366,-98.3303743
+"#129 - A Bloody Surprise in Guilford, Connecticut",2019-07-25 03:52:58,"Guilford, Connecticut",Guilford, Connecticut,41.2889866,-72.6817616
+"#130 - I Killed The Devil... You're Welcome in Jackson, Michigan",2019-08-01 03:40:46,"Jackson, Michigan",Jackson, Michigan,42.2416466,-84.425589
+"#131 - A Killer So Innocent in Winnemucca, Nevada",2019-08-08 03:50:51,"Winnemucca, Nevada",Winnemucca, Nevada,40.9724275,-117.7348184
+"#132 - Why Let One Live? in Weisenberg, Pennsylvania",2019-08-15 04:00:00,"Weisenberg, Pennsylvania",Weisenberg, Pennsylvania,40.5850947,-75.7263025
+"#133 - What's That In Your Pocket? in Mount Ida, Arkansas",2019-08-22 03:50:51,"Mount Ida, Arkansas",Mount Ida, Arkansas,34.5567637,-93.6340815
+"#134 - Some People Just Don't Mix in Byers, Colorado",2019-08-29 03:39:31,"Byers, Colorado",Byers, Colorado,39.709152,-104.2219965
+"#135 - A Sun Powered Killer in Edinburg, Virginia",2019-09-05 04:12:19,"Edinburg, Virginia",Edinburg, Virginia,38.8209466,-78.5658453
+"#136 - Unearthing Some Secrets in Eunice, New Mexico",2019-09-12 03:31:10,"Eunice, New Mexico",Eunice, New Mexico,32.4388224,-103.159002
+"#137 - A Murder Not-So-Mystery Weekend in St. Michaels, Maryland",2019-09-19 04:06:27,"St. Michaels, Maryland",St. Michaels, Maryland,38.7865839,-76.2244098
+"#138 - The Cookie Monster in Walnut, Mississippi",2019-09-26 04:00:00,"Walnut, Mississippi",Walnut, Mississippi,34.1489999,-90.3989834
+"#139 - The Murder Portal Is Open in Little Compton, Rhode Island",2019-10-03 04:24:19,"Little Compton, Rhode Island",Little Compton, Rhode Island,41.5101085,-71.1711648
+"#140 -  When Death Is Too Easy in Troy, Illinois",2019-10-10 04:00:00,"Troy, Illinois",Troy, Illinois,38.7292147,-89.8831541
+"#141 - The Bart & Milhouse Ritual Killing in Springfield, Oregon",2019-10-17 04:05:54,"Springfield, Oregon",Springfield, Oregon,44.0462362,-123.0220289
+"#142 - Where Is The Head?? in Dickson, Tennessee",2019-10-24 04:00:00,"Dickson, Tennessee",Dickson, Tennessee,36.0766534,-87.3870096
+"#143 - A Scary Story On A Quiet Street in Pitman, New Jersey",2019-10-31 04:22:55,"Pitman, New Jersey",Pitman, New Jersey,39.732892,-75.1315651
+"#144 - One In A Ditch & One In A Bed in Forest City, Iowa",2019-11-07 04:00:00,"Forest City, Iowa",Forest City, Iowa,43.2624559,-93.6371591
+"#145 - Killing, Cover Up & A LOT of Sex Toys in Fremont, New Hampshire",2019-11-14 04:31:21,"Fremont, New Hampshire",Fremont, New Hampshire,42.9909194,-71.1425606
+"#146 - A Strangle Here, A Strangle There in Hutchinson, Kansas",2019-11-21 03:59:02,"Hutchinson, Kansas",Hutchinson, Kansas,38.0608444,-97.9297743
+"#147 - That's Not Junk In That Trunk in Ocean Township, New Jersey",2019-11-28 04:29:34,"Ocean Township, New Jersey",Ocean Township, New Jersey,40.2520408,-74.0461049
+"#148 - A Deadly Recipe in Alturas, Florida",2019-12-05 04:22:11,"Alturas, Florida",Alturas, Florida,27.871693,-81.7150798
+"#149 - Brutality, Karma & Cold-blooded Stupid in Stillwater, New York",2019-12-12 03:40:36,"Stillwater, New York",Stillwater, New York,42.9384101,-73.6531731
+"#150 - A Betrayal Of Hearts & Knives in Rome, Georgia",2019-12-19 03:41:36,"Rome, Georgia",Rome, Georgia,34.257038,-85.1646726
+"#151 - The Panhandle Samurai in Vincennes, Indiana",2019-12-26 02:57:00,"Vincennes, Indiana",Vincennes, Indiana,38.6772691,-87.5286325
+"#152 - Taming The Beast in Shelton, Washington",2020-01-02 03:41:28,"Shelton, Washington",Shelton, Washington,47.2150945,-123.1007066
+"#153 - That Can't Be An Accident in Brookfield Township, Ohio",2020-01-09 03:53:22,"Brookfield Township, Ohio",Brookfield Township, Ohio,41.233945,-80.569517
+"#154 - A Bloody Puzzle With Missing Pieces in Bartlesville, Oklahoma",2020-01-16 04:24:40,"Bartlesville, Oklahoma",Bartlesville, Oklahoma,36.7494864,-95.9782966
+"#155 - Two Bodies & One Big Coincidence in Raeford, North Carolina",2020-01-23 03:42:00,"Raeford, North Carolina",Raeford, North Carolina,34.9809996,-79.2241998
+"#156 - Lies Can Be Deadly in Salem, Massachusetts",2020-01-30 03:23:09,"Salem, Massachusetts",Salem, Massachusetts,42.5195292,-70.8967226
+"#157 -  Every Step You Take... in Jefferson, Wisconsin",2020-02-06 03:44:20,"Jefferson, Wisconsin",Jefferson, Wisconsin,43.0055594,-88.8073273
+"#158 - A Hollow Full Of Murder in Tiline, Kentucky",2020-02-13 04:13:00,"Tiline, Kentucky",Tiline, Kentucky,37.1725544,-88.2444745
+"#159 - You Can't Dismember Your Problems in Florence, Arizona",2020-02-20 04:24:26,"Florence, Arizona",Florence, Arizona,33.0314508,-111.3873431
+"#160 - Trust Me, I'm A Murderer in Festus, Missouri",2020-02-27 03:32:57,"Festus, Missouri",Festus, Missouri,38.2207112,-90.3959504
+"#161 - Killing On Consignment in Nashville, Michigan",2020-03-05 02:54:06,"Nashville, Michigan",Nashville, Michigan,42.6028137,-85.0930536
+"#162 - A Very Unstable Genius in Chatham Township, New Jersey",2020-03-12 04:09:22,"Chatham Township, New Jersey",Chatham Township, New Jersey,40.7301239,-74.4251115
+"#163 - Teenage Killer Lesbian Vampire Werewolves From Space in Humble, Texas",2020-03-19 03:10:56,"Humble, Texas",Humble, Texas,29.9988312,-95.2621553
+"#164 - The Idiotic Avenger in Greenwood, Florida",2020-03-26 04:20:40,"Greenwood, Florida",Greenwood, Florida,30.8695214,-85.1627093
+"#165 - Sex Tape Bait in Port Penn, Delaware",2020-04-02 04:05:52,"Port Penn, Delaware",Port Penn, Delaware,39.5167789,-75.5765926
+"#166 - Starting Your Own Religion Can Be Tricky in American Fork, Utah",2020-04-09 04:25:21,"American Fork, Utah",American Fork, Utah,40.3768954,-111.7957645
+"#167 - You'll Have To Chop Off More than That... in Antelope, California",2020-04-16 03:15:56,"Antelope, California",Antelope, California,38.7082357,-121.3299513
+"#168 - A Killer In The Cards in Mexborough, South Yorkshire, England",2020-04-23 03:57:12,"Mexborough, South Yorkshire",Mexborough, South Yorkshire,53.4938865,-1.2836514
+"#169 - A Brutal, Silly & Victimless Murder in Layland, West Virginia",2020-04-30 03:54:27,"Layland, West Virginia",Layland, West Virginia,37.8892821,-80.9712058
+"#170 - An Attempted Suburban Vampire Cult in St. Cloud, Minnesota",2020-05-07 02:16:53,"St. Cloud, Minnesota",St. Cloud, Minnesota,45.5616075,-94.1642004
+"#171 - Til Dismemberment Do Us Part in Decatur, Alabama",2020-05-14 04:03:38,"Decatur, Alabama",Decatur, Alabama,34.623709,-87.067051
+"#172 - Natural Born Killer Idiots in Chubbuck, Idaho",2020-05-21 03:54:06,"Chubbuck, Idaho",Chubbuck, Idaho,42.927651,-112.4731501
+"#173 - Three Is A Ring, Four Is A Crowd in Marmaduke, Arkansas",2020-05-28 02:41:41,"Marmaduke, Arkansas",Marmaduke, Arkansas,36.1860947,-90.3837068
+"#174 - Open & Not So Shut in Belle Terre, New York",2020-06-04 03:26:34,"Belle Terre, New York",Belle Terre, New York,40.9598208,-73.067884
+"#175 - Cruel, Unusual & Pointless in Newville, Pennsylvania",2020-06-11 04:15:42,"Newville, Pennsylvania",Newville, Pennsylvania,40.3056615,-75.2198962
+"#176 - Sicker Than The Average Strangler in Gaffney, South Carolina",2020-06-18 02:51:04,"Gaffney, South Carolina",Gaffney, South Carolina,35.0717945,-81.6498195
+"#177 - Sex, Deception, Death... And A Pig in Verdigre, Nebraska",2020-06-25 04:07:20,"Verdigre, Nebraska",Verdigre, Nebraska,42.5969469,-98.0336814
+"#178 - Proud To Be Cruel in Middle River, Maryland",2020-07-02 03:02:57,"Middle River, Maryland",Middle River, Maryland,39.3342745,-76.4394057
+"#179 - Deep Beneath The Goat Heads in Gunnison, Colorado",2020-07-09 03:48:53,"Gunnison, Colorado",Gunnison, Colorado,38.6476702,-107.0603126
+"#180 - Dark & Dirty Motivation in Mustang, Oklahoma",2020-07-16 02:47:36,"Mustang, Oklahoma",Mustang, Oklahoma,35.384227,-97.7244813
+"#181 - A Bloody Path To A Monster in Enosburgh, Vermont",2020-07-23 03:47:20,"Enosburgh, Vermont",Enosburgh, Vermont,44.9061902,-72.8063759
+"#182 - Two Shot Glasses Of Blood, Please in Pigeon Forge, Tennessee",2020-07-30 03:01:08,"Pigeon Forge, Tennessee",Pigeon Forge, Tennessee,35.7884241,-83.5543329
+"#183 - A Stupid, Vicious, Unlucky Mess in Eddyville, Oregon",2020-08-06 02:51:00,"Eddyville, Oregon",Eddyville, Oregon,44.6345632,-123.7764999
+"#184 - Some Dogs Find All The Legs in Streamwood, Illinois",2020-08-13 03:01:17,"Streamwood, Illinois",Streamwood, Illinois,42.0255827,-88.1784085
+"#185 - A Double Murder In Stereo Sound in Middletown, Connecticut",2020-08-20 03:10:36,"Middletown, Connecticut",Middletown, Connecticut,41.5623178,-72.6509061
+"#186 - Power Saws, Little Red Wagons & Corpse Finding Cats in Libertyville, Iowa",2020-08-27 02:26:38,"Libertyville, Iowa",Libertyville, Iowa,40.9575203,-92.0512863
+"#187 - Remorse Is For Suckers in Reeds Spring, Missouri",2020-09-03 02:56:00,"Reeds Spring, Missouri",Reeds Spring, Missouri,36.7497827,-93.3779642
+"#188 - A Garbage Disposal Full Of Secrets in Corcoran, Minnesota",2020-09-10 02:58:10,"Corcoran, Minnesota",Corcoran, Minnesota,45.0951069,-93.5475651
+"#189 - The Lego Murders in Holladay, Utah",2020-09-17 02:16:36,"Holladay, Utah",Holladay, Utah,40.6688363,-111.8246557
+"#190 - We Will Dig Up That Basement! in Vinton, Virginia",2020-09-24 02:52:50,"Vinton, Virginia",Vinton, Virginia,37.2809707,-79.8969819
+"#191 - Like Severed Legs At A Wedding... in Fairfield, Ohio",2020-10-01 03:04:05,"Fairfield, Ohio",Fairfield, Ohio,39.3458953,-84.5605031
+"#192 - Angry, Bloody & Ridiculous in Colby, Wisconsin",2020-10-08 02:46:51,"Colby, Wisconsin",Colby, Wisconsin,44.9099665,-90.3156911
+"#193 - A Stalking From Within in Darby, Montana",2020-10-15 03:00:00,"in Darby, Montana",in Darby, Montana,46.022659,-114.178093
+"#194 - A Real Life Halloween Monster in Sutherland, Nebraska",2020-10-22 02:56:00,"Sutherland, Nebraska",Sutherland, Nebraska,41.1571138,-101.1261815
+"#195 - The Head Of The Serpent in Lafayette, Indiana",2020-10-29 03:00:52,"Lafayette, Indiana",Lafayette, Indiana,40.4167022,-86.8752869
+"#196 - A Man Named ""Hillbilly"" in Fruitville, Florida",2020-11-05 03:27:44,"Fruitville, Florida",Fruitville, Florida,27.3317515,-82.4615172
+"#197 - No Good Deed... in Golden Valley, Arizona",2020-11-12 02:46:31,"Golden Valley, Arizona",Golden Valley, Arizona,35.2216745,-114.2175543
+"#198 - A Ted Bundy On The Rise in Needham, Massachusetts",2020-11-19 03:28:05,"Needham, Massachusetts",Needham, Massachusetts,42.283431,-71.2328329
+"#199 - Hello, I'm My Sister... in Anniston, Alabama",2020-11-26 02:22:59,"Anniston, Alabama",Anniston, Alabama,33.6594422,-85.8316326
+"#200 - Possessed By Stupidity in Brownstown Township, Michigan",2020-12-03 02:55:49,"Brownstown Township, Michigan",Brownstown Township, Michigan,42.055489,-83.1852954
+"#201 - A Mystery Deepens in Gormania, West Virginia",2020-12-10 02:56:00,"Gormania, West Virginia",Gormania, West Virginia,39.2928814,-79.3444888
+"#202 - A Very Murderous Christmas in Barnesville, Georgia",2020-12-17 02:48:13,"Barnesville, Georgia",Barnesville, Georgia,33.0545709,-84.1557496
+"#203 - Love Thy Neighbor in Hampton, New Hampshire",2020-12-24 05:26:20,"Hampton, New Hampshire",Hampton, New Hampshire,42.9304376,-70.824896
+"204 - What EXACTLY Happened Here? in Clinton, North Carolina",2020-12-31 03:14:00,"Clinton, North Carolina",Clinton, North Carolina,34.9979453,-78.3233325
